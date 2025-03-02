@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Diffusion models**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analysis and BI tools**
 
 - 📝 I regularly write articles on [https://dev.to/angkonduttajoy](https://dev.to/angkonduttajoy)
 
